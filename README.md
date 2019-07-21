@@ -42,4 +42,5 @@ My qestions to you:
 * Which was more helpful, the map or the text directions?
 * Look at how much info you could absorb quickly through the image / if you already know the town then the text directions are all you need. [ not a question ] 
 
+## Last tidbit (totally a bonus)
 * One more piece of terminology: When I said "already know the town", there is a machine learning analog, that is called training a model.
