@@ -44,3 +44,23 @@ My qestions to you:
 
 ## Last tidbit (totally a bonus)
 * One more piece of terminology: When I said "already know the town", there is a machine learning analog, that is called training a model. If I didn't know Charlottesville I would have no idea how to get anywhere (you should see my parents when they visit, they are from Chicago, they are used to a grid). In the same way, if google maps was not trained then it would have horrendous results.
+
+
+# Goals
+Whenever I present I always have exactly three goals. And they are always the same. Here we go:
+1. Make sure you have access to the resources
+2. Get comfortable with the subject
+3. Know how to get help
+  1. first on your own (eg: read the manual)
+  2. second to a trusted resource (eg: a good online reference)
+  3. third a knowledgeable person (eg: email pete, datascientist@virginia.edu)
+  
+  
+# The Fun Part
+1. Show everyone how to access Project Jupyter
+2. Tour of the system
+3. Demos, demos, demos
+
+## Part 1: Project Jupyter
+One of the challenges in data science is accessing computational resources, accessing data resources, performing analysis, coding, etc. All at the same time. The cognitive load is through the room.
+![](https://github.com/alonzi/CSInstitute/blob/master/cogload.jpg)
