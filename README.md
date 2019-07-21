@@ -37,4 +37,9 @@ When I was a kid
 Today
 ![](https://github.com/alonzi/CSInstitute/blob/master/googleDirections.png)
 
-My qestion to you: Why does google give us three options? (hint: think back to Bloom's Taxonomy and my definition)
+My qestions to you: 
+* Why does google give us three options? (hint: think back to Bloom's Taxonomy and my definition)
+* Which was more helpful, the map or the text directions?
+* Look at how much info you could absorb quickly through the image / if you already know the town then the text directions are all you need. [ not a question ] 
+
+* One more piece of terminology: When I said "already know the town", there is a machine learning analog, that is called training a model.
