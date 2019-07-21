@@ -24,3 +24,6 @@ I'll believe you can write a program that extracts knowledge. But I won't go so 
 
 ## Pete's definition of Data Science
 ![](https://github.com/alonzi/CSInstitute/blob/master/researchFlowchart.png)
+What we face today is data on a global scale. Megabytes have become Gigabytes have become Terabytes and so on. Now we must use computers to aid our science. But we cannot forget that the human brain is where the magic happens. In fact the most advanced machine learning techniques are nambed after the brain, we call them artificial neural networks.
+
+**"Data Science is the process of uploading data into the human brain." ~ Pete Alonzi
