@@ -23,3 +23,4 @@ Let's talk about knowledge and insights.
 I'll believe you can write a program that extracts knowledge. But I won't go so far with regards to insights.
 
 ## Pete's definition of Data Science
+![](https://github.com/alonzi/CSInstitute/blob/master/researchFlowchart.png)
