@@ -27,3 +27,14 @@ I'll believe you can write a program that extracts knowledge. But I won't go so 
 What we face today is data on a global scale. Megabytes have become Gigabytes have become Terabytes and so on. Now we must use computers to aid our science. But we cannot forget that the human brain is where the magic happens. In fact the most advanced machine learning techniques are nambed after the brain, we call them artificial neural networks.
 
 **"Data Science is the process of uploading data into the human brain."** ~ Pete Alonzi
+
+## Example and Questions
+Let's play a game: How long would it take to drive from here (799 Faulconer Drive) to Mas Tapas (904 Monticello Road)?
+
+When I was a kid
+![](https://github.com/alonzi/CSInstitute/blob/master/charlottesville_map.jpg)
+
+Today
+![](https://github.com/alonzi/CSInstitute/blob/master/googleDirections.png)
+
+My qestion to you: Why does google give us three options? (hint: think back to Bloom's Taxonomy and my definition)
