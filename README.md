@@ -20,3 +20,6 @@ One of the toughest thing about data science is that no one agrees on what it me
 ## Extract knowledge and insights from structured and unstructured data
 Let's talk about knowledge and insights.
 ![](https://github.com/alonzi/CSInstitute/blob/master/Blooms-Taxonomy-History.png)
+I'll believe you can write a program that extracts knowledge. But I won't go so far with regards to insights.
+
+## Pete's definition of Data Science
