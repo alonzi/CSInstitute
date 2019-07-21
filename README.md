@@ -17,4 +17,6 @@ One of the toughest thing about data science is that no one agrees on what it me
 * "Data science continues to evolve ... " ~ https://datascience.berkeley.edu/about/what-is-data-science/
 * "Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data." ~ Wikipedia
 
-
+## Extract knowledge and insights from structured and unstructured data
+Let's talk about knowledge and insights.
+![]()
