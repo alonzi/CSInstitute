@@ -140,6 +140,20 @@ Steps:
 3. create a **variable** and save your name in the **variable**
 4. print the **variable**
 
+#### Quick Side Bar
+![](https://github.com/alonzi/CSInstitute/blob/master/grace.jpg)
+https://en.wikipedia.org/wiki/Grace_Hopper
+* USN Rear Admiral
+* Ph.D. in mathematics from Yale University and was a professor of mathematics at Vassar College
+* ... led to the COBOL language, which was inspired by her idea of a language being based on English words.
+* In 1966, she retired from the Naval Reserve, but in 1967 the Navy recalled her to active duty. She retired from the Navy in 1986.
+* https://en.wikipedia.org/wiki/USS_Hopper (a destroyer)
+* A college at Yale University was renamed in her honor. 
+* posthumously awarded the Presidential Medal of Freedom
+* World War II Victory Medal
+![](https://github.com/alonzi/CSInstitute/blob/master/Grace_Hopper_and_UNIVAC.jpg)
+c. 1960
+
 ### Demo 3 - import code
 Task: Create a new notebook named demo3, **import** code to produce random numbers, print a random number.
 
