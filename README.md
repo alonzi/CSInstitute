@@ -140,4 +140,21 @@ Steps:
 2. **call** a **function** to produce a random number
 3. print that random number
 
+### Demo 4 - create some data
+Task: use your random number generator to create a whole bunch of random numbers (aka data)
+
+Steps:
+
+1. Create an empty **list**
+2. Use a **for loop** and the **append function** to make the list contain 10,000 data points
+3. use **print** to display your data
+
+### Demo 5 - visualize your data
+Task: take your data object from demo 4 and make a histogram
+
+Steps:
+
+1. **import** visualization code
+2. **call** the histogram function
+
 
