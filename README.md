@@ -61,7 +61,7 @@ Whenever I present I always have exactly three goals. And they are always the sa
 2. Tour of the system
 3. Demos, demos, demos
 
-## Part 1: Project Jupyter
+## Part 1: Access to project Jupyter
 One of the challenges in data science is accessing computational resources, accessing data resources, performing analysis, coding, etc. All at the same time. The cognitive load is through the roof.
 
 ![](https://github.com/alonzi/CSInstitute/blob/master/cogload.jpg)
