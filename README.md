@@ -90,7 +90,8 @@ Project Jupyter is a system developed at Berkeley that eliminates many of these 
 
 ![](https://github.com/alonzi/CSInstitute/blob/master/awsLogin.png)
 
-### Tour of the system
+## Part 2: Tours
+### Tour of the jupyter interface
 Let's start by learning our way around Jupyter. We will have a little divergence as people get to Jupyter but once we are in then it will be the same for all. There are too many things to screen shot so I'll just do one big one.
 
 ![](https://github.com/alonzi/CSInstitute/blob/master/SAMPLEJupyter.png)
@@ -106,7 +107,7 @@ Let's start by learning our way around Jupyter. We will have a little divergence
     
 What's cool about jupyter is that it connects all of the computer power to the user through this since interface. It is based in the webbrowser so it is familiar to anyone who uses a web browser.
 
-## Part 2: Tour of a Jupyter Notebook ( .ipynb )
+### Tour of a Jupyter Notebook ( .ipynb )
 1. cell (and new cell icon)
 2. save button
 3. play button (and shortcut key)
