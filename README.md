@@ -151,7 +151,9 @@ https://en.wikipedia.org/wiki/Grace_Hopper
 * A college at Yale University was renamed in her honor. 
 * posthumously awarded the Presidential Medal of Freedom
 * World War II Victory Medal
+
 ![](https://github.com/alonzi/CSInstitute/blob/master/Grace_Hopper_and_UNIVAC.jpg)
+
 c. 1960
 
 ### Demo 3 - import code
