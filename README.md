@@ -70,6 +70,9 @@ Project Jupyter is a system developed at Berkeley that eliminates many of these 
 
 ### Getting to Jupyter
 1. Install it on your computer via: https://www.anaconda.com/distribution/#download-section
+    * NB: Make sure you pick the right operating system
     * NB: use the big green button that says "Download"
     * NB: use version 3.x (the x just means the newest, inthis case 3.7)
-2. Access through the cloud via: 
+2. Access through the cloud via: https://open-data-lab.signin.aws.amazon.com/console
+
+![](https://github.com/alonzi/CSInstitute/blob/master/download.png)
