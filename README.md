@@ -63,5 +63,7 @@ Whenever I present I always have exactly three goals. And they are always the sa
 
 ## Part 1: Project Jupyter
 One of the challenges in data science is accessing computational resources, accessing data resources, performing analysis, coding, etc. All at the same time. The cognitive load is through the roof.
+
 ![](https://github.com/alonzi/CSInstitute/blob/master/cogload.jpg)
+
 Project Jupyter is a system developed at Berkeley that eliminates many of these difficulties and enables the data scientist to focus on just doing their science. I have had great sucess with it in the classrooom as well as the laboratory. I went to a conference about Jupyter back in 2018 (https://github.com/UVA-DSI/conferences/tree/master/JupyterCon18).
