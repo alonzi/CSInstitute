@@ -89,5 +89,7 @@ Let's start by learning our way around Jupyter. We will have a little divergence
 1. Quit - upper right corner
 2. New - right hand side, near the top
 3. List of files - main part of the screen
+    * .ipynb - file extension for jupyter notebooks (a tool we will use)
+    * .txt - file extension for text
 
 
