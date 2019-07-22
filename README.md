@@ -106,7 +106,7 @@ Let's start by learning our way around Jupyter. We will have a little divergence
     
 What's cool about jupyter is that it connects all of the computer power to the user through this since interface. It is based in the webbrowser so it is familiar to anyone who uses a web browser.
 
-### Tour of a Jupyter Notebook ( .ipynb )
+## Part 2: Tour of a Jupyter Notebook ( .ipynb )
 1. cell (and new cell icon)
 2. save button
 3. play button (and shortcut key)
@@ -120,6 +120,8 @@ Tip #1: If you are new at this you may get the 'deer in the headlights'. That is
 Tip #2: Computers always do exactly what you tell them to. That is why they will never replace humans. However that makes them tricky to handle. The good news is that you can always find an explanation for the result you got. If you don't understand the result AND why that is the result I emplore you to dig until you have it.
 
 Tip #3: As we work through these demos you will have to learn, however I'm not going to tell you, you have to find it, ask neighbors, search google, or if you're stuck (I mean actually stuck), call me over and I'll give you a boost.
+
+## Part 3: Demo time
 
 ### Demo 2 - for real this time
 Task: Create a new notebook named demo2, save your name as a **variable** and use that to print your name
