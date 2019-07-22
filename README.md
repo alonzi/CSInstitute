@@ -22,7 +22,11 @@ Let's talk about knowledge and insights.
 ![](https://github.com/alonzi/CSInstitute/blob/master/Blooms-Taxonomy-History.png)
 I'll believe you can write a program that extracts knowledge. But I won't go so far with regards to insights.
 
-* Side bar: Have you listened to Bill Nye's new podcast? The last episode with LeVar Burton about reading is great. ![https://podcasts.apple.com/us/podcast/discover-your-reading-superpower-with-levar-burton/id1460716677?i=1000444187826](https://github.com/alonzi/CSInstitute/blob/master/podcastcover.png)
+* Side bar: Have you listened to Bill Nye's new podcast? The last episode with LeVar Burton about reading is great.
+
+![](https://github.com/alonzi/CSInstitute/blob/master/podcastcover.png)
+
+[link to episode: Discover Your Reading Superpower with LeVar Burton](https://podcasts.apple.com/us/podcast/discover-your-reading-superpower-with-levar-burton/id1460716677?i=1000444187826)
 
 ## Pete's definition of Data Science
 ![](https://github.com/alonzi/CSInstitute/blob/master/researchFlowchart.png)
