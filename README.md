@@ -124,6 +124,7 @@ Tip #3: As we work through these demos you will have to learn, however I'm not g
 ### Demo 2 - for real this time
 Task: Create a new notebook named demo2, save your name as a **variable** and use that to print your name
 Steps:
+
 1. create a new notebook
 2. save it as demo 2
 3. create a **variable** and save your name in the **variable**
@@ -132,8 +133,9 @@ Steps:
 ### Demo 3 - import code
 Task: Create a new notebook named demo3, **import** code to produce random numbers, print a random number.
 Steps:
-3. use **import** to import code that has a **function** to produce random numbers
-4. **call** a **function** to produce a random number
-5. print that random number
+
+1. use **import** to import code that has a **function** to produce random numbers
+2. **call** a **function** to produce a random number
+3. print that random number
 
 
