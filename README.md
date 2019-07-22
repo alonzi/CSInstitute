@@ -164,4 +164,16 @@ Steps:
 1. **import** visualization code
 2. **call** the histogram function
 
+### Demo 6 - climb the pyramid
+Task: Glean an insight from the data
+
+Steps:
+
+1. take in your data visually
+2. recode and regenerate your data if necessary
+3. let your brain go to town and an insight will emerge
+4. If you are stuck and no insights are coming here is some reccomended reading
+    * https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow - [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman)
+    * A Whack on the Side of the Head - [Roger von Oech](https://en.wikipedia.org/wiki/Roger_von_Oech)
+
 
