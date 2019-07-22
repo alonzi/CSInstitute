@@ -54,6 +54,9 @@ Whenever I present I always have exactly three goals. And they are always the sa
     * first on your own (eg: read the manual)
     * second to a trusted resource (eg: a good online reference)
     * third a knowledgeable person (eg: email pete, datascientist@virginia.edu)
+    
+  ## Your goals!
+  What do you want to learn?
   
   
 # The Fun Part
