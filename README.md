@@ -78,3 +78,7 @@ Project Jupyter is a system developed at Berkeley that eliminates many of these 
 
 ![](https://github.com/alonzi/CSInstitute/blob/master/download.png)
 ![](https://github.com/alonzi/CSInstitute/blob/master/awsLogin.png)
+
+### Tour of the system
+Let's start by learning our way around Jupyter. We will have a little divergence as people get to Jupyter but once we are in then it will be the same for all.
+
