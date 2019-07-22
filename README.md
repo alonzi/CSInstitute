@@ -89,6 +89,8 @@ Let's start by learning our way around Jupyter. We will have a little divergence
 
 ![](https://github.com/alonzi/CSInstitute/blob/master/SAMPLEJupyter.png)
 
+![](https://github.com/alonzi/CSInstitute/blob/master/jupyterlab.png)
+
 1. Quit - upper right corner
 2. New - right hand side, near the top
 3. List of files - main part of the screen
@@ -99,5 +101,13 @@ Let's start by learning our way around Jupyter. We will have a little divergence
 What's cool about jupyter is that it connects all of the computer power to the user through this since interface. It is based in the webbrowser so it is familiar to anyone who uses a web browser.
 
 ### Tour of a Jupyter Notebook ( .ipynb )
+1. cell (and new cell icon)
+2. save button
+3. play button (and shortcut key)
+4. the kernel - upper right corner, this one is conda_python3, but you can use many others
 
+### Demo 2
+Now we get into the really fun part! I am going to give instructions in english and you get to make it happen with your notebook.
+
+Tip #1: If you are new at this you may get the 'deer in the headlights'. That is a good thing! It is a response that tells you, "oh man, I'm about to learn something!". It says you are out of the comfort zone. When you feel it, take a moment, take a breath, and then learn.
 
