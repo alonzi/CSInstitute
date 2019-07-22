@@ -51,9 +51,9 @@ Whenever I present I always have exactly three goals. And they are always the sa
 1. Make sure you have access to the resources
 2. Get comfortable with the subject
 3. Know how to get help
-  1. first on your own (eg: read the manual)
-  2. second to a trusted resource (eg: a good online reference)
-  3. third a knowledgeable person (eg: email pete, datascientist@virginia.edu)
+  * first on your own (eg: read the manual)
+  * second to a trusted resource (eg: a good online reference)
+  * third a knowledgeable person (eg: email pete, datascientist@virginia.edu)
   
   
 # The Fun Part
