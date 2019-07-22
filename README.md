@@ -91,5 +91,10 @@ Let's start by learning our way around Jupyter. We will have a little divergence
 3. List of files - main part of the screen
     * .ipynb - file extension for jupyter notebooks (a tool we will use)
     * .txt - file extension for text
+    * to access a file click on it
+    
+What's cool about jupyter is that it connects all of the computer power to the user through this since interface. It is based in the webbrowser so it is familiar to anyone who uses a web browser.
+
+### Tour of a Jupyter Notebook ( .ipynb )
 
 
