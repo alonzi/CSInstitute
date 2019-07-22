@@ -94,8 +94,10 @@ Project Jupyter is a system developed at Berkeley that eliminates many of these 
 ### Tour of the jupyter interface
 Let's start by learning our way around Jupyter. We will have a little divergence as people get to Jupyter but once we are in then it will be the same for all. There are too many things to screen shot so I'll just do one big one.
 
+#### Old School
 ![](https://github.com/alonzi/CSInstitute/blob/master/SAMPLEJupyter.png)
 
+#### New School - JupyterLab
 ![](https://github.com/alonzi/CSInstitute/blob/master/jupyterlab.png)
 
 1. Quit - upper right corner
