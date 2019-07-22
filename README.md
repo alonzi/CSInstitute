@@ -76,3 +76,4 @@ Project Jupyter is a system developed at Berkeley that eliminates many of these 
 2. Access through the cloud via: https://open-data-lab.signin.aws.amazon.com/console
 
 ![](https://github.com/alonzi/CSInstitute/blob/master/download.png)
+![](https://github.com/alonzi/CSInstitute/blob/master/awsLogin.png)
