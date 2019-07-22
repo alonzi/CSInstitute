@@ -115,5 +115,25 @@ What's cool about jupyter is that it connects all of the computer power to the u
 ### Demo 2
 Now we get into the really fun part! I am going to give instructions in english and you get to make it happen with your notebook.
 
-Tip #1: If you are new at this you may get the 'deer in the headlights'. That is a good thing! It is a response that tells you, "oh man, I'm about to learn something!". It says you are out of the comfort zone. When you feel it, take a moment, take a breath, and then learn.
+Tip #1: If you are new at this you may get the 'deer in the headlights'. That is a good thing! It is a response that tells you, "oh man, I'm about to learn something!". It says you are out of the comfort zone. When you feel it, take a moment, take a breath, and then learn. When I was a kid we used to say, "take a look, it's in a book". Now I say, "take a look, it's in a google search result". As we are working through the demos google is your first line of defence. However google is tricky. It is a tool and you need to know how to use it. My main goal here is actually to teach you how to use google in this context, not how to do data science.
+
+Tip #2: Computers always do exactly what you tell them to. That is why they will never replace humans. However that makes them tricky to handle. The good news is that you can always find an explanation for the result you got. If you don't understand the result AND why that is the result I emplore you to dig until you have it.
+
+Tip #3: As we work through these demos you will have to learn, however I'm not going to tell you, you have to find it, ask neighbors, search google, or if you're stuck (I mean actually stuck), call me over and I'll give you a boost.
+
+### Demo 2 - for real this time
+Task: Create a new notebook named demo2, save your name as a **variable** and use that to print your name
+Steps:
+1. create a new notebook
+2. save it as demo 2
+3. create a **variable** and save your name in the **variable**
+4. print the **variable**
+
+### Demo 3 - import code
+Task: Create a new notebook named demo3, **import** code to produce random numbers, print a random number.
+Steps:
+3. use **import** to import code that has a **function** to produce random numbers
+4. **call** a **function** to produce a random number
+5. print that random number
+
 
