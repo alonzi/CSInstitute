@@ -43,7 +43,7 @@ My qestions to you:
 * Look at how much info you could absorb quickly through the image / if you already know the town then the text directions are all you need. [ not a question ] 
 
 ## Last tidbit (totally a bonus)
-* One more piece of terminology: When I said "already know the town", there is a machine learning analog, that is called training a model. If I didn't know Charlottesville I would have no idea how to get anywhere (you should see my parents when they visit, they are from Chicago, they are used to a grid). In the same way, if google maps was not trained then it would have horrendous results.
+* One more piece of terminology: When I said "already know the town", there is a machine learning analog, that is called training a model. If I didn't know Charlottesville I would have no idea how to get anywhere (you should see my parents when they visit, they are from Chicago, they are used to a grid). In the same way, if google maps was not trained then it would have about as much luck as my parents.
 
 
 # Goals
