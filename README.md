@@ -67,3 +67,9 @@ One of the challenges in data science is accessing computational resources, acce
 ![](https://github.com/alonzi/CSInstitute/blob/master/cogload.jpg)
 
 Project Jupyter is a system developed at Berkeley that eliminates many of these difficulties and enables the data scientist to focus on just doing their science. I have had great sucess with it in the classrooom as well as the laboratory. I went to a conference about Jupyter back in 2018 (https://github.com/UVA-DSI/conferences/tree/master/JupyterCon18).
+
+### Getting to Jupyter
+1. Install it on your computer via: https://www.anaconda.com/distribution/#download-section
+    * NB: use the big green button that says "Download"
+    * NB: use version 3.x (the x just means the newest, inthis case 3.7)
+2. Access through the cloud via: 
