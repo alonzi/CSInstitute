@@ -22,6 +22,8 @@ Let's talk about knowledge and insights.
 ![](https://github.com/alonzi/CSInstitute/blob/master/Blooms-Taxonomy-History.png)
 I'll believe you can write a program that extracts knowledge. But I won't go so far with regards to insights.
 
+* Side bar: Have you listened to Bill Nye's new podcast? The last episode with LeVar Burton about reading is great. ![https://podcasts.apple.com/us/podcast/discover-your-reading-superpower-with-levar-burton/id1460716677?i=1000444187826](https://github.com/alonzi/CSInstitute/blob/master/podcastcover.png)
+
 ## Pete's definition of Data Science
 ![](https://github.com/alonzi/CSInstitute/blob/master/researchFlowchart.png)
 What we face today is data on a global scale. Megabytes have become Gigabytes have become Terabytes and so on. Now we must use computers to aid our science. But we cannot forget that the human brain is where the magic happens. In fact the most advanced machine learning techniques are nambed after the brain, we call them artificial neural networks.
