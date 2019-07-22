@@ -74,6 +74,7 @@ Project Jupyter is a system developed at Berkeley that eliminates many of these 
     * NB: use the big green button that says "Download"
     * NB: use version 3.x (the x just means the newest, inthis case 3.7)
 2. Access through the cloud via: https://open-data-lab.signin.aws.amazon.com/console
+    * Requires a username and password (I have them for you)
 
 ![](https://github.com/alonzi/CSInstitute/blob/master/download.png)
 ![](https://github.com/alonzi/CSInstitute/blob/master/awsLogin.png)
