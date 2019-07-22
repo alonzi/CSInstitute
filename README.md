@@ -113,6 +113,8 @@ What's cool about jupyter is that it connects all of the computer power to the u
 3. play button (and shortcut key)
 4. the kernel - upper right corner, this one is conda_python3, but you can use many others
 
+![](https://github.com/alonzi/CSInstitute/blob/master/ipynbexample.png)
+
 ### Demo 2
 Now we get into the really fun part! I am going to give instructions in english and you get to make it happen with your notebook.
 
